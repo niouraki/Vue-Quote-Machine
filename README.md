@@ -1,29 +1,6 @@
-# vue-quotes
+# Quotes Project
+This is a small project created so I can have more practice with Vue.js
+When the user clicks the button a random quote appears on the screen and the background color changes.
+The styling is minimal, I just focused on the functionality and the use of Vue.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+The quotes are from RapidAPI (https://rapidapi.com/) Random Famous Quotes (https://rapidapi.com/andruxnet/api/random-famous-quotes). It is free and it doesn't require cors.
